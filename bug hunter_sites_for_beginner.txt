@@ -1,0 +1,32 @@
+tasksec.github.io/google-dorks-bug-bounty/
+nitinyadav00.github.io/Bug-Bounty-Search-Engine/
+archive.js
+api-guesser.netlify.app
+keyhacksgithub
+nucleiprompts.com/prompt.php?vuln_id=1
+exploit-notes.hdks.org
+centralops.net/co/
+bgp.he.net/dns/wesquare.nl
+exploit-db.com
+dorksearch.com
+dorkgenius.com/
+bbradar.io     (it is a bugbounty platform same as like bugcrowd,hackerone)
+securitycipher.com/security-tools/
+sploitus.com           (To read cve number updates)
+hacker101.com/resources
+
+jwt.io      (to read JWT token)
+jwt.one      (to manuplate JWT token)
+gowsundar.gitbook.io/book-of-bugbounty-tips/elastic-search          (free access cybersec resources)
+book.hacktricks.wiki/en/index.html
+lopseg.com.br/osint
+sallabs.com/ssltest/       (cryptography failure to test SSL ceartificate)
+github.com/defparam/smuggler             ( helps to automate http smuggling)
+revshells.com              (payload genarator)
+
+github.com/shmilylty/OneForAll     (to find all vuln at a time with automation)
+
+cloud.projectdiscovery.io
+
+inventory.raw.pm/
+
