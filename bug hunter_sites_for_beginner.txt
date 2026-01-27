@@ -36,7 +36,11 @@ https://www.youtube.com/watch?v=zMFziRdu4h8          (403 bypass)
 
 vsec7.github.io
 
-backmeup github                     -----> to find endpints
+https://github.com/Dheerajmadhukar/back-me-up                   -----> to find endpints
+
+
+https://github.com/coffinxp/loxs              -----> automate vuln scanner of oswap 10 vulns
+
 
 
 
