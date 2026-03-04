@@ -43,5 +43,8 @@ https://github.com/coffinxp/loxs              -----> automate vuln scanner of os
 
 
 
+https://nitinyadav00.github.io/Bug-Bounty-Search-Engine/
+
+
 
 
